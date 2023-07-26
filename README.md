@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sumguy1234
-- 👀 I’m interested in blockchain technology, FinTech, and automation
 
 
 <!---
